@@ -581,6 +581,10 @@ footer {
         color: #FFFFFF;
     }
 
+    .gog{
+        display: none;
+    }
+
     .info-head {
         font-style: normal;
         font-weight: 400;
